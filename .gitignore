@@ -2,3 +2,4 @@
 obj/
 bin/
 *.user
+.idea/.idea.SamplePlugin/.idea/
